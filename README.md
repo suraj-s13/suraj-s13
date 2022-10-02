@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://suraj-s13-github-io.vercel.app/](https://suraj-s13-github-io.vercel.app/)
+- 👨‍💻 You can check out me on [https://suraj-s13-github-io.vercel.app/](https://suraj-s13-github-io.vercel.app/)
 
 - 📫 How to reach me **13surajsingh01@gmail.com**
 <br />
