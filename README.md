@@ -8,15 +8,18 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 You can check out me on [https://suraj-s13.github.io/](https://suraj-s13.github.io/)
+- 👨‍💻 You can check out me on [Click](https://suraj-s13.github.io/)
 
 - 📫 How to reach me **13surajsingh01@gmail.com**
 <br />
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
-
-[<img src='https://img.icons8.com/cute-clipart/64/000000/github.png' alt='github' height='40'>](https://github.com/suraj-s13)  [<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/suraj-singh-71a373217/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='instagram' height='40'>](https://instagram.com/_suraj_ss_?igshid=YmMyMTA2M2Y=)  [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/Surajs13s?t=xFGY1Ybzie3pVK8IXLSpSg&s=09)
+  
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/suraj-s13)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/suraj-singh-71a373217/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_suraj_ss_?igshid=YmMyMTA2M2Y=)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Surajs13s?t=xFGY1Ybzie3pVK8IXLSpSg&s=09)
  <br />
   
 <h3 align="left">Coding Platform:</h3>
