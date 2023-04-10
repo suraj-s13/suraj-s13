@@ -1,5 +1,6 @@
 ***<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Suraj Singh </h1>***
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;AI%20|%20ML%20Admirer;Passionate%20learner&center=true&width=500&height=50"></a>
 <br />
@@ -35,9 +36,9 @@
  <i><b>Git Activeness</b></i></p>
  
  <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=suraj-s13&theme=dracula&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-s13&theme=dracula&cache_seconds=30&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj-s13&theme=dracula"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj-s13&theme=github_dark"/>
 </p>
  
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-s13&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
