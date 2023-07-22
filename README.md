@@ -30,7 +30,7 @@
 <br /><br />
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,nodejs,linux,mysql,docker,gcp,react,git,gitlab&perline=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,linux,mysql,docker,gcp,git,gitlab&perline=)](https://skillicons.dev)
 <br /><br />
 
  <p align="center">
