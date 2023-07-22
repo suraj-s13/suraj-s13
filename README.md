@@ -42,15 +42,3 @@
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj-s13&theme=github_dark"/>
 </p>
- 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-s13&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=suraj-s13&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br> -->
-
-<hr>
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50">
- <i><b>Git Profile Trophies</b></i></p>
-<img src="https://github-profile-trophy.vercel.app/?username=Aneesh-07&theme=juicyfresh&no-bg=true" /> 
-
-<hr> -->
