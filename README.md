@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;AI%20|%20ML%20Admirer;Passionate%20learner&center=true&width=500&height=50"></a>
 <br />
+<!--   <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-s13&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-s13" /> </p> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
