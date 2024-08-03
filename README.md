@@ -40,6 +40,7 @@
  
  <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>
+<!--   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/> -->
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suraj-s13&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj-s13&theme=github_dark"/>
 </p>
