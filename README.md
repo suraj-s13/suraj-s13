@@ -43,3 +43,4 @@
   <img width="44%" src = "https://github-readme-streak-stats.herokuapp.com/?user=suraj-s13&theme=github_dark&cache_seconds=30&hide_border=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj-s13&theme=github_dark"/>
 </p>
+</p>
